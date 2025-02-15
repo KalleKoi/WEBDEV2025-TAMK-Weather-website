@@ -17,7 +17,7 @@ async function getWeatherData(){
     document.querySelector(".temp").innerText = `${data.main.temp} °C`
     document.querySelector(".feels_like").innerText = `${data.main.feels_like} °C`
     document.querySelector(".weather-icon").src = iconUrl;
-
+    
     } catch (error) {
         document.querySelector(".city").innerText = "City not found";
         document.querySelector(".temp").innerText = "N/A";
