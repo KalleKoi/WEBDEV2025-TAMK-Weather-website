@@ -1,0 +1,22 @@
+
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.card {
+    max-width: 40%;
+    background: linear-gradient(#869cff, #d3cdff);
+    padding: 50px 35px;
+    color: white;
+    margin: 0 auto;
+    border-radius: 100px;
+    text-align: center;
+}
+
+.description {
+    font-size: 26px;
+    margin-top: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
