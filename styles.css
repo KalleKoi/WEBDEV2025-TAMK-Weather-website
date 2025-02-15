@@ -3,6 +3,15 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+body {
+    background-color: gray;
+}
+
+img {
+    background-color: #718bff;
+    border-radius: 15px;
+}
+
 
 .card {
     max-width: 40%;
@@ -16,5 +25,5 @@
 
 .description {
     font-size: 26px;
-    font-weight: bold;
+    font-weight: bold;    
 }
