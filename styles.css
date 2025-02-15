@@ -25,5 +25,23 @@ img {
 
 .description {
     font-size: 26px;
-    font-weight: bold;    
+    font-weight: bold; 
+}
+
+.city {
+    background-color: #718bff;
+    border-radius: 15px;
+    padding: 30px;   
+}
+
+.temp {
+    background-color: #718bff;
+    border-radius: 15px;
+    padding: 30px;   
+}
+
+.feels_like {
+    background-color: #718bff;
+    border-radius: 15px;
+    padding: 30px;   
 }
