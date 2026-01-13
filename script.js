@@ -1,5 +1,5 @@
 const apiKey ="07d0685bb5970b340591a847ee34b853";
-const apiUrl ="https://api.openweathermap.org/data/2.5/weather?units=metric&q=tampere";
+const apiUrl ="https://api.openweathermap.org/data/2.5/weather?units=metric&q=Helsinki";
 
 async function getWeatherData(){
 
