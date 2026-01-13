@@ -1,1 +1,1 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/sibCEJcH)
+A website which can show you the current temperature as well as what the temperature "feels like". Theres also an icon that gets updated depending on the weather. It gets this data from a weather API (openweathermap) and updates every 15 minutes
